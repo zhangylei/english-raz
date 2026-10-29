@@ -1,0 +1,695 @@
+[
+  {
+    "id": "a-001",
+    "title": "Pond Animals",
+    "sourceName": "01 pond animals.mp3",
+    "duration": 40,
+    "path": "assets/audio/a-001.mp3"
+  },
+  {
+    "id": "a-002",
+    "title": "My Dog",
+    "sourceName": "02 my dog.mp3",
+    "duration": 39,
+    "path": "assets/audio/a-002.mp3"
+  },
+  {
+    "id": "a-003",
+    "title": "The Big Cat",
+    "sourceName": "03 the big cat.mp3",
+    "duration": 46,
+    "path": "assets/audio/a-003.mp3"
+  },
+  {
+    "id": "a-004",
+    "title": "The Forest",
+    "sourceName": "04 the forest.mp3",
+    "duration": 26,
+    "path": "assets/audio/a-004.mp3"
+  },
+  {
+    "id": "a-005",
+    "title": "Mom and I",
+    "sourceName": "05 mom and i.mp3",
+    "duration": 46,
+    "path": "assets/audio/a-005.mp3"
+  },
+  {
+    "id": "a-006",
+    "title": "What Lives Here?",
+    "sourceName": "06 what lives here.mp3",
+    "duration": 35,
+    "path": "assets/audio/a-006.mp3"
+  },
+  {
+    "id": "a-007",
+    "title": "Baby Animals",
+    "sourceName": "07 baby animals.mp3",
+    "duration": 32,
+    "path": "assets/audio/a-007.mp3"
+  },
+  {
+    "id": "a-008",
+    "title": "I Love Flowers",
+    "sourceName": "08 i love flowers.mp3",
+    "duration": 38,
+    "path": "assets/audio/a-008.mp3"
+  },
+  {
+    "id": "a-009",
+    "title": "Hamster Home",
+    "sourceName": "09 hamster home.mp3",
+    "duration": 53,
+    "path": "assets/audio/a-009.mp3"
+  },
+  {
+    "id": "a-010",
+    "title": "Oh, Raccoon",
+    "sourceName": "10 oh raccoon.mp3",
+    "duration": 91,
+    "path": "assets/audio/a-010.mp3"
+  },
+  {
+    "id": "a-011",
+    "title": "Bird Goes Home",
+    "sourceName": "11 bird goes home.mp3",
+    "duration": 36,
+    "path": "assets/audio/a-011.mp3"
+  },
+  {
+    "id": "a-012",
+    "title": "Spring Weather",
+    "sourceName": "12 spring weather.mp3",
+    "duration": 37,
+    "path": "assets/audio/a-012.mp3"
+  },
+  {
+    "id": "a-013",
+    "title": "Vegetables",
+    "sourceName": "13 vegetables.mp3",
+    "duration": 97,
+    "path": "assets/audio/a-013.mp3"
+  },
+  {
+    "id": "a-014",
+    "title": "Fruit Colors",
+    "sourceName": "14 fruit colors.mp3",
+    "duration": 26,
+    "path": "assets/audio/a-014.mp3"
+  },
+  {
+    "id": "a-015",
+    "title": "Hello, Butterfly",
+    "sourceName": "15 hello butterfly.mp3",
+    "duration": 42,
+    "path": "assets/audio/a-015.mp3"
+  },
+  {
+    "id": "a-016",
+    "title": "Shapes in Nature",
+    "sourceName": "16 shapes in nature.mp3",
+    "duration": 41,
+    "path": "assets/audio/a-016.mp3"
+  },
+  {
+    "id": "a-017",
+    "title": "Spring and Fall",
+    "sourceName": "17 spring and fall.mp3",
+    "duration": 97,
+    "path": "assets/audio/a-017.mp3"
+  },
+  {
+    "id": "a-018",
+    "title": "The Rainstorm",
+    "sourceName": "18 the rainstorm.mp3",
+    "duration": 37,
+    "path": "assets/audio/a-018.mp3"
+  },
+  {
+    "id": "a-019",
+    "title": "Rabbits",
+    "sourceName": "19 rabbits.mp3",
+    "duration": 29,
+    "path": "assets/audio/a-019.mp3"
+  },
+  {
+    "id": "a-020",
+    "title": "Snake Colors",
+    "sourceName": "20 snake colors.mp3",
+    "duration": 40,
+    "path": "assets/audio/a-020.mp3"
+  },
+  {
+    "id": "a-021",
+    "title": "I See My Colors",
+    "sourceName": "21 i see my colprs.mp3",
+    "duration": 39,
+    "path": "assets/audio/a-021.mp3"
+  },
+  {
+    "id": "a-022",
+    "title": "Bird Colors",
+    "sourceName": "22 bird colors.mp3",
+    "duration": 44,
+    "path": "assets/audio/a-022.mp3"
+  },
+  {
+    "id": "a-023",
+    "title": "Bedtime Counting",
+    "sourceName": "23 bedtime counting.mp3",
+    "duration": 73,
+    "path": "assets/audio/a-023.mp3"
+  },
+  {
+    "id": "a-024",
+    "title": "Carlos Counts Kittens",
+    "sourceName": "24 carlos counts kittens.mp3",
+    "duration": 48,
+    "path": "assets/audio/a-024.mp3"
+  },
+  {
+    "id": "a-025",
+    "title": "Maria Counts Pumpkins",
+    "sourceName": "25 maria counts pumpkins.mp3",
+    "duration": 32,
+    "path": "assets/audio/a-025.mp3"
+  },
+  {
+    "id": "a-026",
+    "title": "This Insect",
+    "sourceName": "26 this insect.mp3",
+    "duration": 79,
+    "path": "assets/audio/a-026.mp3"
+  },
+  {
+    "id": "a-027",
+    "title": "Halloween Pumpkins",
+    "sourceName": "27 halloween pumpkins.mp3",
+    "duration": 92,
+    "path": "assets/audio/a-027.mp3"
+  },
+  {
+    "id": "a-029",
+    "title": "Going Places",
+    "sourceName": "29 going places.mp3",
+    "duration": 35,
+    "path": "assets/audio/a-029.mp3"
+  },
+  {
+    "id": "a-030",
+    "title": "Now We Bake",
+    "sourceName": "30 now we bake.mp3",
+    "duration": 82,
+    "path": "assets/audio/a-030.mp3"
+  },
+  {
+    "id": "a-031",
+    "title": "My Easter Eggs",
+    "sourceName": "31 my easter eggs.mp3",
+    "duration": 100,
+    "path": "assets/audio/a-031.mp3"
+  },
+  {
+    "id": "a-032",
+    "title": "This Is My Halloween",
+    "sourceName": "32 this is my halloween.mp3",
+    "duration": 101,
+    "path": "assets/audio/a-032.mp3"
+  },
+  {
+    "id": "a-033",
+    "title": "Halloween Houses",
+    "sourceName": "33 halloween houses.mp3",
+    "duration": 91,
+    "path": "assets/audio/a-033.mp3"
+  },
+  {
+    "id": "a-034",
+    "title": "Smells Like Thanksgiving",
+    "sourceName": "34 smells like thanksgiving.mp3",
+    "duration": 94,
+    "path": "assets/audio/a-034.mp3"
+  },
+  {
+    "id": "a-035",
+    "title": "This Feels",
+    "sourceName": "35 this feels.mp3",
+    "duration": 94,
+    "path": "assets/audio/a-035.mp3"
+  },
+  {
+    "id": "a-036",
+    "title": "Where To Go",
+    "sourceName": "36 where to go.mp3",
+    "duration": 118,
+    "path": "assets/audio/a-036.mp3"
+  },
+  {
+    "id": "a-037",
+    "title": "Car Parts",
+    "sourceName": "37 car parts.mp3",
+    "duration": 42,
+    "path": "assets/audio/a-037.mp3"
+  },
+  {
+    "id": "a-038",
+    "title": "Fun in the Water",
+    "sourceName": "38 fun in the water.mp3",
+    "duration": 49,
+    "path": "assets/audio/a-038.mp3"
+  },
+  {
+    "id": "a-039",
+    "title": "I Draw a Bunny",
+    "sourceName": "39 i draw a bunny.mp3",
+    "duration": 37,
+    "path": "assets/audio/a-039.mp3"
+  },
+  {
+    "id": "a-040",
+    "title": "Sundae Time",
+    "sourceName": "40 sundae time.mp3",
+    "duration": 88,
+    "path": "assets/audio/a-040.mp3"
+  },
+  {
+    "id": "a-041",
+    "title": "This Tastes",
+    "sourceName": "41 this tastes.mp3",
+    "duration": 105,
+    "path": "assets/audio/a-041.mp3"
+  },
+  {
+    "id": "a-042",
+    "title": "What Do I Hear?",
+    "sourceName": "42 what do i hear.mp3",
+    "duration": 83,
+    "path": "assets/audio/a-042.mp3"
+  },
+  {
+    "id": "a-043",
+    "title": "The Mall",
+    "sourceName": "43 the mall.mp3",
+    "duration": 82,
+    "path": "assets/audio/a-043.mp3"
+  },
+  {
+    "id": "a-044",
+    "title": "All Kinds of Buttons",
+    "sourceName": "44 all kinds of buttons.mp3",
+    "duration": 89,
+    "path": "assets/audio/a-044.mp3"
+  },
+  {
+    "id": "a-045",
+    "title": "Make a Salad",
+    "sourceName": "45 make a salad.mp3",
+    "duration": 92,
+    "path": "assets/audio/a-045.mp3"
+  },
+  {
+    "id": "a-046",
+    "title": "Move It!",
+    "sourceName": "46 move it!.mp3",
+    "duration": 80,
+    "path": "assets/audio/a-046.mp3"
+  },
+  {
+    "id": "a-047",
+    "title": "Our Apartment Building",
+    "sourceName": "47 our apartment building.mp3",
+    "duration": 109,
+    "path": "assets/audio/a-047.mp3"
+  },
+  {
+    "id": "a-048",
+    "title": "This Is My Bear",
+    "sourceName": "48 this is my bear.mp3",
+    "duration": 32,
+    "path": "assets/audio/a-048.mp3"
+  },
+  {
+    "id": "a-049",
+    "title": "Write!",
+    "sourceName": "49 write.mp3",
+    "duration": 101,
+    "path": "assets/audio/a-049.mp3"
+  },
+  {
+    "id": "a-050",
+    "title": "This Sounds",
+    "sourceName": "50 this sounds.mp3",
+    "duration": 97,
+    "path": "assets/audio/a-050.mp3"
+  },
+  {
+    "id": "a-051",
+    "title": "Time for Eggs",
+    "sourceName": "51 time for eggs.mp3",
+    "duration": 81,
+    "path": "assets/audio/a-051.mp3"
+  },
+  {
+    "id": "a-052",
+    "title": "This Looks",
+    "sourceName": "52 this looks.mp3",
+    "duration": 109,
+    "path": "assets/audio/a-052.mp3"
+  },
+  {
+    "id": "a-054",
+    "title": "My Room",
+    "sourceName": "54 my room.mp3",
+    "duration": 34,
+    "path": "assets/audio/a-054.mp3"
+  },
+  {
+    "id": "a-055",
+    "title": "A Fish Sees",
+    "sourceName": "55 a fish sees.mp3",
+    "duration": 73,
+    "path": "assets/audio/a-055.mp3"
+  },
+  {
+    "id": "a-056",
+    "title": "Go Fly a Kite",
+    "sourceName": "56 go fiy a kite.mp3",
+    "duration": 88,
+    "path": "assets/audio/a-056.mp3"
+  },
+  {
+    "id": "a-057",
+    "title": "He Runs",
+    "sourceName": "57 he runs.mp3",
+    "duration": 40,
+    "path": "assets/audio/a-057.mp3"
+  },
+  {
+    "id": "a-058",
+    "title": "Maria Goes to School",
+    "sourceName": "58 maria goes to school.mp3",
+    "duration": 32,
+    "path": "assets/audio/a-058.mp3"
+  },
+  {
+    "id": "a-059",
+    "title": "Carlos Goes to School",
+    "sourceName": "59 carlos goes to school.mp3",
+    "duration": 84,
+    "path": "assets/audio/a-059.mp3"
+  },
+  {
+    "id": "a-060",
+    "title": "I Can",
+    "sourceName": "60 icn.mp3",
+    "duration": 44,
+    "path": "assets/audio/a-060.mp3"
+  },
+  {
+    "id": "a-061",
+    "title": "Getting Dressed",
+    "sourceName": "61 getting dressed.mp3",
+    "duration": 28,
+    "path": "assets/audio/a-061.mp3"
+  },
+  {
+    "id": "a-062",
+    "title": "These Shoes",
+    "sourceName": "62 these shoes.mp3",
+    "duration": 64,
+    "path": "assets/audio/a-062.mp3"
+  },
+  {
+    "id": "a-063",
+    "title": "What I Like",
+    "sourceName": "63 what i like.mp3",
+    "duration": 36,
+    "path": "assets/audio/a-063.mp3"
+  },
+  {
+    "id": "a-064",
+    "title": "I Love Pirates",
+    "sourceName": "64 i love pirates.mp3",
+    "duration": 78,
+    "path": "assets/audio/a-064.mp3"
+  },
+  {
+    "id": "a-065",
+    "title": "The Parade",
+    "sourceName": "65 the parade.mp3",
+    "duration": 40,
+    "path": "assets/audio/a-065.mp3"
+  },
+  {
+    "id": "a-066",
+    "title": "I Dream",
+    "sourceName": "66 i dream.mp3",
+    "duration": 117,
+    "path": "assets/audio/a-066.mp3"
+  },
+  {
+    "id": "a-067",
+    "title": "Clean, Not Clean",
+    "sourceName": "67 clean not clean.mp3",
+    "duration": 95,
+    "path": "assets/audio/a-067.mp3"
+  },
+  {
+    "id": "a-068",
+    "title": "Building with Blocks",
+    "sourceName": "68 building with blocks.mp3",
+    "duration": 106,
+    "path": "assets/audio/a-068.mp3"
+  },
+  {
+    "id": "a-069",
+    "title": "My House",
+    "sourceName": "69 my house.mp3",
+    "duration": 36,
+    "path": "assets/audio/a-069.mp3"
+  },
+  {
+    "id": "a-070",
+    "title": "Smile",
+    "sourceName": "70 snile.mp3",
+    "duration": 89,
+    "path": "assets/audio/a-070.mp3"
+  },
+  {
+    "id": "a-071",
+    "title": "Make Me Laugh",
+    "sourceName": "71 make me laugh.mp3",
+    "duration": 108,
+    "path": "assets/audio/a-071.mp3"
+  },
+  {
+    "id": "a-072",
+    "title": "I Set the Table",
+    "sourceName": "72 i set the table.mp3",
+    "duration": 33,
+    "path": "assets/audio/a-072.mp3"
+  },
+  {
+    "id": "a-073",
+    "title": "I Save Money",
+    "sourceName": "73 i save money.mp3",
+    "duration": 29,
+    "path": "assets/audio/a-073.mp3"
+  },
+  {
+    "id": "a-074",
+    "title": "My Body",
+    "sourceName": "74 my body.mp3",
+    "duration": 38,
+    "path": "assets/audio/a-074.mp3"
+  },
+  {
+    "id": "a-075",
+    "title": "What Makes Me Happy?",
+    "sourceName": "75 what makes me happy.mp3",
+    "duration": 73,
+    "path": "assets/audio/a-075.mp3"
+  },
+  {
+    "id": "a-076",
+    "title": "My Hair",
+    "sourceName": "76 my hair.mp3",
+    "duration": 43,
+    "path": "assets/audio/a-076.mp3"
+  },
+  {
+    "id": "a-077",
+    "title": "Athletes",
+    "sourceName": "77 athletes.mp3",
+    "duration": 80,
+    "path": "assets/audio/a-077.mp3"
+  },
+  {
+    "id": "a-078",
+    "title": "Nice, Not Nice",
+    "sourceName": "78 nice not nice.mp3",
+    "duration": 52,
+    "path": "assets/audio/a-078.mp3"
+  },
+  {
+    "id": "a-079",
+    "title": "Safe, Not Safe",
+    "sourceName": "79 safe not safe.mp3",
+    "duration": 107,
+    "path": "assets/audio/a-079.mp3"
+  },
+  {
+    "id": "a-080",
+    "title": "You Can Dance",
+    "sourceName": "80 you can dance.mp3",
+    "duration": 39,
+    "path": "assets/audio/a-080.mp3"
+  },
+  {
+    "id": "a-081",
+    "title": "I Can Skate",
+    "sourceName": "81 i can skate.mp3",
+    "duration": 93,
+    "path": "assets/audio/a-081.mp3"
+  },
+  {
+    "id": "a-082",
+    "title": "My Little Brother",
+    "sourceName": "82 my little brother.mp3",
+    "duration": 79,
+    "path": "assets/audio/a-082.mp3"
+  },
+  {
+    "id": "a-083",
+    "title": "Muscles",
+    "sourceName": "83 muscles.mp3",
+    "duration": 81,
+    "path": "assets/audio/a-083.mp3"
+  },
+  {
+    "id": "a-084",
+    "title": "Dad and I",
+    "sourceName": "84 dad and i.mp3",
+    "duration": 99,
+    "path": "assets/audio/a-084.mp3"
+  },
+  {
+    "id": "a-085",
+    "title": "For Mom",
+    "sourceName": "85 for mom.mp3",
+    "duration": 91,
+    "path": "assets/audio/a-085.mp3"
+  },
+  {
+    "id": "a-086",
+    "title": "My Face",
+    "sourceName": "86 my face.mp3",
+    "duration": 35,
+    "path": "assets/audio/a-086.mp3"
+  },
+  {
+    "id": "a-087",
+    "title": "All Kinds of Faces",
+    "sourceName": "87 all kinds of faces.mp3",
+    "duration": 27,
+    "path": "assets/audio/a-087.mp3"
+  },
+  {
+    "id": "a-088",
+    "title": "Grandparents are Great!",
+    "sourceName": "88 grandparents are great!.mp3",
+    "duration": 84,
+    "path": "assets/audio/a-088.mp3"
+  },
+  {
+    "id": "a-089",
+    "title": "We Can Make Sounds",
+    "sourceName": "89 we can make sounds.mp3",
+    "duration": 29,
+    "path": "assets/audio/a-089.mp3"
+  },
+  {
+    "id": "a-090",
+    "title": "In and Out",
+    "sourceName": "90 in and out.mp3",
+    "duration": 36,
+    "path": "assets/audio/a-090.mp3"
+  },
+  {
+    "id": "a-091",
+    "title": "Up and Down",
+    "sourceName": "91 up and down.mp3",
+    "duration": 29,
+    "path": "assets/audio/a-091.mp3"
+  },
+  {
+    "id": "a-092",
+    "title": "Who Has It?",
+    "sourceName": "92 who has it.mp3",
+    "duration": 36,
+    "path": "assets/audio/a-092.mp3"
+  },
+  {
+    "id": "a-093",
+    "title": "This Smells",
+    "sourceName": "035 this smells.mp3",
+    "duration": 88,
+    "path": "assets/audio/a-093.mp3"
+  },
+  {
+    "id": "a-094",
+    "title": "Opposites",
+    "sourceName": "94 opposites.mp3",
+    "duration": 35,
+    "path": "assets/audio/a-094.mp3"
+  },
+  {
+    "id": "a-095",
+    "title": "Hot and Cold",
+    "sourceName": "95 hot and cold.mp3",
+    "duration": 30,
+    "path": "assets/audio/a-095.mp3"
+  },
+  {
+    "id": "a-096",
+    "title": "Christmas Cookies",
+    "sourceName": "96 christmas cookies.mp3",
+    "duration": 104,
+    "path": "assets/audio/a-096.mp3"
+  },
+  {
+    "id": "a-097",
+    "title": "Where They Hid",
+    "sourceName": "97 where they hid.mp3",
+    "duration": 129,
+    "path": "assets/audio/a-097.mp3"
+  },
+  {
+    "id": "a-098-benchmark",
+    "title": "Fruits",
+    "sourceName": "28 fruits.mp3",
+    "duration": 23,
+    "path": "assets/audio/a-098-benchmark.mp3"
+  },
+  {
+    "id": "a-098",
+    "title": "This Lizard",
+    "sourceName": "99 this lizard.mp3",
+    "duration": 72,
+    "path": "assets/audio/a-098.mp3"
+  },
+  {
+    "id": "a-099-benchmark",
+    "title": "I Go",
+    "sourceName": "53 i go.mp3",
+    "duration": 40,
+    "path": "assets/audio/a-099-benchmark.mp3"
+  },
+  {
+    "id": "a-099",
+    "title": "Scary, Not Scary",
+    "sourceName": "98 scary not scary.mp3",
+    "duration": 102,
+    "path": "assets/audio/a-099.mp3"
+  }
+]

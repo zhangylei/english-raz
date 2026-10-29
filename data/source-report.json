@@ -1,0 +1,13 @@
+{
+  "sourceFiles": 100,
+  "bookCount": 99,
+  "readingPages": 794,
+  "issues": [
+    {
+      "number": 100,
+      "source": "AA-100-书本-Theseareopposites.pdf",
+      "reason": "源文件实际为 H 级，未纳入 AA 绘本",
+      "expectedTitle": "这些是反义词"
+    }
+  ]
+}

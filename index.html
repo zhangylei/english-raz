@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7ed">
+  <meta name="description" content="小芽阅读：大字号的 AA、A 级英语绘本书架。看图阅读、听原音，慢慢认识一个小小的世界。">
+  <title>小芽阅读 · 每天一个小小的世界</title>
+  <link rel="icon" href="./assets/sprout.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./data/catalog.js"></script>
+  <script defer src="./data/catalog-a.js"></script>
+  <script defer src="./core.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <header class="site-header">
+    <a class="brand" href="#library" aria-label="小芽阅读，回到绘本书架">
+      <span class="brand-mark"><img src="./assets/sprout.svg" width="32" height="32" alt=""></span>
+      <span>小芽阅读<small>LITTLE SPROUT READERS</small></span>
+    </a>
+    <nav class="main-nav" aria-label="主导航">
+      <a href="#library" data-nav="library">绘本书架</a>
+      <a href="#progress" data-nav="progress">我的足迹</a>
+    </nav>
+    <button class="settings-trigger" type="button" data-action="settings"><span aria-hidden="true">☼</span><span>家长设置</span></button>
+  </header>
+  <div id="storage-notice" class="storage-notice" role="status" hidden></div>
+  <main id="main" tabindex="-1"><p class="loading-message">小芽正在整理书架……</p></main>
+  <footer class="site-footer">
+    <a class="footer-brand" href="#library"><img src="./assets/sprout.svg" width="24" height="24" alt=""> 小小的阅读，大大的世界。</a>
+    <span>陪孩子，慢慢长大 <span class="footer-dot">·</span> AA · A 启蒙阅读</span>
+    <button type="button" data-action="about">素材与使用说明</button>
+  </footer>
+  <audio id="book-audio" preload="none"></audio>
+  <div id="modal-root"></div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="noscript">请启用浏览器 JavaScript 以使用绘本阅读与学习记录。</p></noscript>
+</body>
+</html>

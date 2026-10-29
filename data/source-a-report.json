@@ -1,0 +1,37 @@
+{
+  "sourceFiles": 99,
+  "bookCount": 99,
+  "readingPages": 800,
+  "audioAvailable": 99,
+  "cardsAvailable": 97,
+  "missingNumberedSources": [
+    28,
+    53,
+    100
+  ],
+  "numberingNotes": [
+    {
+      "audioNumber": 28,
+      "bookId": "a-098-benchmark",
+      "title": "Fruits"
+    },
+    {
+      "audioNumber": 53,
+      "bookId": "a-099-benchmark",
+      "title": "I Go"
+    }
+  ],
+  "missingBookTitles": [
+    "I Push"
+  ],
+  "issues": [
+    {
+      "id": "a-098-benchmark",
+      "reason": "没有与本书对应的原版测试卡"
+    },
+    {
+      "id": "a-099-benchmark",
+      "reason": "没有与本书对应的原版测试卡"
+    }
+  ]
+}
