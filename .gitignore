@@ -1,0 +1,9 @@
+# 原始资料、处理工具与浏览器验收产物不进入发布仓库。
+AA-*/
+A-*/
+*.zip
+.tools/
+.qa/
+tmp/
+__pycache__/
+node_modules/

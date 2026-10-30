@@ -23,7 +23,16 @@ node server.cjs
 
 资源全部使用相对路径，页面使用哈希路由，无需额外配置 404 回退或构建工作流。不要上传原始 `AA-书本/`、`A-书本/`、`A-测试卡/`、压缩包、`.tools/`、`.qa/`、`tmp/`。随附 `.gitignore` 已排除原始资料和开发产物。
 
-GitHub 网页单次上传可能不适合大量素材文件，建议使用 Git 或 GitHub Desktop 提交整个发布目录。所有绘本图片与音频都已整理为普通静态文件，部署无需网盘登录、API Key 或第三方音频服务。
+GitHub 网页单次上传最多选择 100 个文件。本项目约有 4,370 个素材文件，可使用 GitHub Desktop 一次提交整个目录：
+
+1. 安装并打开 GitHub Desktop，登录 GitHub。
+2. 选择 **File → Clone repository**，选择已有的 GitHub 仓库并克隆到电脑上的一个新目录。
+3. 打开克隆出的目录，将本项目中的 `assets/`、`data/`、`index.html`、`styles.css`、`app.js`、`core.js`、`.nojekyll` 复制进去。原始绘本目录、测试卡目录和 `.qa/` 不需要复制。
+4. 回到 GitHub Desktop，检查左侧文件列表，填写提交说明，点击 **Commit to main**；分支名称不同则以界面显示为准。
+5. 点击 **Push origin**，等待上传结束。文件较多，首次上传可能需要一些时间。
+6. 在 GitHub 仓库的 **Settings → Pages** 中选择提交所用分支和 `/ (root)`，等待发布完成后访问页面显示的网址。
+
+GitHub Pages 需要能直接访问绘本图片与音频，因此上传时保留 `assets/` 的目录结构，不要只上传一个压缩包。所有素材均已整理为普通静态文件，部署无需网盘登录、API Key 或第三方音频服务。
 
 ## 学习内容
 
